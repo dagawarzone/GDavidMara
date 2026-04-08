@@ -13,6 +13,15 @@ public class ProDavidMara {
     /**
      * @param args the command line arguments
      */
+    
+    
+     
+    int sumar (int a, int b){
+        return a+b;
+    };
+    
+    
+    
     public static void main(String[] args) {
         
         System.out.println("hola mundo");
@@ -24,11 +33,6 @@ public class ProDavidMara {
          System.out.println("se va terminar todo");
          
          
-        
-        
-        
-        
-        
         
         
         
